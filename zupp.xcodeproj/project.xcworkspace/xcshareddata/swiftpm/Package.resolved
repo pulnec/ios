@@ -1,0 +1,61 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Alamofire",
+        "repositoryURL": "https://github.com/Alamofire/Alamofire.git",
+        "state": {
+          "branch": null,
+          "revision": "fca036f7aeca07124067cb6e0c12b0ad6359e3d4",
+          "version": "5.1.0"
+        }
+      },
+      {
+        "package": "ASCollectionView",
+        "repositoryURL": "https://github.com/apptekstudios/ASCollectionView",
+        "state": {
+          "branch": null,
+          "revision": "91d85a3aec1bdc88fb285b3908ba036ba9d1dd09",
+          "version": "1.5.0"
+        }
+      },
+      {
+        "package": "RemoteImage",
+        "repositoryURL": "https://github.com/crelies/RemoteImage.git",
+        "state": {
+          "branch": null,
+          "revision": "dd92986fbb43c7a204aafabb0b3f550e94d55e70",
+          "version": "2.0.2"
+        }
+      },
+      {
+        "package": "NavigationStack",
+        "repositoryURL": "https://github.com/biobeats/swiftui-navigation-stack.git",
+        "state": {
+          "branch": "master",
+          "revision": "6e08396f529c34bd8698d3976b2eb5f29a8b3e02",
+          "version": null
+        }
+      },
+      {
+        "package": "SwiftyJSON",
+        "repositoryURL": "https://github.com/SwiftyJSON/SwiftyJSON.git",
+        "state": {
+          "branch": null,
+          "revision": "2b6054efa051565954e1d2b9da831680026cd768",
+          "version": "5.0.0"
+        }
+      },
+      {
+        "package": "ViewInspector",
+        "repositoryURL": "https://github.com/nalexn/ViewInspector.git",
+        "state": {
+          "branch": null,
+          "revision": "7d55eb940242512aad2bf28db354d09d5de43893",
+          "version": "0.3.11"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
